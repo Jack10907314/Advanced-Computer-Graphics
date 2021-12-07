@@ -1,0 +1,5 @@
+newmtl COMBINE
+Kd 1 1 1
+Ka 1 1 1
+Ks 1 1 1
+map_Kd COMBINE.JPG
